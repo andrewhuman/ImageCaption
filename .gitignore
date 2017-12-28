@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+.env/*
+
+model/datasets/
+*.png
+*.jpg
